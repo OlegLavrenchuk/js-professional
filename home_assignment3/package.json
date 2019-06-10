@@ -1,0 +1,15 @@
+{
+  "name": "home_assignment3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "objectfreeze.js",
+  "scripts": {
+    "cli": "webpack ./application/index.js --output-path ./public/js --output-filename bundle.js --mode development --watch --color"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.32.2",
+    "webpack-cli": "^3.3.2"
+  }
+}

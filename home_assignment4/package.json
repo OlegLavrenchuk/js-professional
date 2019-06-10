@@ -1,0 +1,15 @@
+{
+  "name": "home_assignment4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "composition.js",
+  "scripts": {
+    "cli": "webpack ./application/index.js --output-path ./public/js --output-filename bundle.js --env development --mode development --color --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.32.2",
+    "webpack-cli": "^3.3.2"
+  }
+}
