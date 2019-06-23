@@ -1,0 +1,14 @@
+
+
+td {
+    padding: 2px 4px;
+    border: 1px solid #000000;
+    border-collapse: separate;
+    border-spacing: 7px 11px;
+    cursor: pointer;
+}
+
+button {
+    width: 300px;
+    height: 40px;
+}
